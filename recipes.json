@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Arroz con Pollo",
+        "ingredients": ["Arroz", "Pollo", "Zanahoria", "Arveja"],
+        "image": "arroz_con_pollo.jpg"
+    },
+    {
+        "name": "Aguadito",
+        "ingredients": ["Papa", "Arveja", "Zanahoria", "Arroz"],
+        "image": "aguadito.jpg"
+    },
+    {
+        "name": "Papa a la Huancaína",
+        "ingredients": ["Papa", "Huevo", "Aceituna", "Lechuga"],
+        "image": "papa_a_la_huancaina.jpg"
+    }
+]
